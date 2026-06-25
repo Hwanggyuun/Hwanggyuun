@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 👨‍💻 황규운 (Gyuun Hwang)
-<br>DevOps 엔지니어를 꿈꾸는 Cloud-Native Backend 개발자입니다. > 인프라의 안정성과 코드의 효율성을 고민하며, 사용자 피드백을 기술로 해결하는 과정에서 즐거움을 느낍니다.<br><br>
+<br>DevOps 엔지니어를 꿈꾸는 전공생입니다. > 인프라의 안정성과 코드의 효율성을 고민하며, 사용자 피드백을 기술로 해결하는 과정에서 즐거움을 느낍니다.<br><br>
 ### 🔭 I’m currently working on
 <br>AfterNote 프로젝트의 Backend Lead Engineer로서 고가용성 아키텍처와 보안 시스템을 구축하고 있습니다.<br><br>Kubernetes를 활용한 인프라 표준화 및 HPA를 통한 트래픽 대응 시스템을 운영 중입니다.<br><br>
 
